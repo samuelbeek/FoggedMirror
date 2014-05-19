@@ -12,6 +12,11 @@
     -o-filter:      blur(10px); 
     -ms-filter:     blur(10px); 
     filter:         blur(10px);
+    
+    /*make it mirrored:*/ 
+    transform: rotateY(180deg);
+    -webkit-transform:rotateY(180deg); /* Safari and Chrome */
+    -moz-transform:rotateY(180deg); /* Firefox */
 
 }
 
