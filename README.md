@@ -1,6 +1,7 @@
 FoggedMirror
 ============
-
+<h2> Example </h2>
+<p> <a href="https://rawgit.com/samuelbeek/FoggedMirror/master/index.html"> Try this in Chrome </a> </p> 
 <h2> Description </h2>
 <p>Web application (now only supports firefox and chrome) that enables you to write on a fogged mirror, displaying you (off course)</p>
 
